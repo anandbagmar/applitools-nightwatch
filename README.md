@@ -21,6 +21,11 @@ ex:
 
     `eyes.setApiKey("j1ZaKdSEFbhnOGn3x1WJaEU4jqAFcvnUsO105Z");`
 
+### Create the Visual Locators
+The tests assume you have created Visual Locators using the instructions provided [here](https://applitools.com/tutorials/concepts/best-practices/visual-locators).
+
+The Visual Locators referenced by the 2 tests have the name **3** and **217**
+
 ### Run the test
 
 The below command will run both the tests in this repo
